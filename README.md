@@ -22,3 +22,7 @@ Make sure the virtual environment is activated and run from the project root:
 source .venv/bin/activate
 python -m calculator_mcp.calculator_mcp
 ```
+
+## Documentation
+
+- [Project guide](docs/project-guide.md)
